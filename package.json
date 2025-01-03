@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "description": "Genera geojson con codigos postales de España",
+  "main": "process.js",
+  "dependencies": {
+    "adm-zip": "~0.4.7",
+    "archiver": "~1.2.0",
+    "datapackage-init": "~0.2.3",
+    "glob": "~7.1.1",
+    "request": "~2.72.0",
+    "semver": "~5.1.0",
+    "underscore": "~1.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5"
+  },
+  "scripts": {
+    "print-stores": "npx tsx ./scripts/createFromZIPCode.ts"
+  },
+  "author": "Iñigo Flores",
+  "license": "BSD-2-Clause"
+}

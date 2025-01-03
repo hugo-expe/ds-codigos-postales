@@ -1,0 +1,427 @@
+{
+  "name": "ds-codigos-postales",
+  "title": "Dataset de Códigos Postales",
+  "description": "Geometrías de todos los códigos postales de España, incluyendo los códigos INE de los municipios asociados",
+  "resources": [
+    {
+      "name": "alava",
+      "zip": "01",
+      "path": "data/ALAVA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 10642159
+    },
+    {
+      "name": "albacete",
+      "zip": "02",
+      "path": "data/ALBACETE.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1592827
+    },
+    {
+      "name": "alicante",
+      "zip": "03",
+      "path": "data/ALICANTE.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2571122
+    },
+    {
+      "name": "almeria",
+      "zip": "04",
+      "path": "data/ALMERIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2115989
+    },
+    {
+      "name": "asturias",
+      "zip": "33",
+      "path": "data/ASTURIAS.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2776847
+    },
+    {
+      "name": "avila",
+      "zip": "05",
+      "path": "data/AVILA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2233487
+    },
+    {
+      "name": "a_coruna",
+      "zip": "15",
+      "path": "data/A_CORUNA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3439884
+    },
+    {
+      "name": "badajoz",
+      "zip": "06",
+      "path": "data/BADAJOZ.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3605629
+    },
+    {
+      "name": "baleares",
+      "zip": "07",
+      "path": "data/BALEARES.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 8839036
+    },
+    {
+      "name": "barcelona",
+      "zip": "08",
+      "path": "data/BARCELONA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 4353923
+    },
+    {
+      "name": "burgos",
+      "zip": "09",
+      "path": "data/BURGOS.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3636682
+    },
+    {
+      "name": "caceres",
+      "zip": "01",
+      "path": "data/CACERES.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 4150402
+    },
+    {
+      "name": "cadiz",
+      "zip": "01",
+      "path": "data/CADIZ.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1792785
+    },
+    {
+      "name": "cantabria",
+      "zip": "01",
+      "path": "data/CANTABRIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1783599
+    },
+    {
+      "name": "castellon",
+      "zip": "12",
+      "path": "data/CASTELLON.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1588869
+    },
+    {
+      "name": "ceuta",
+      "zip": "01",
+      "path": "data/CEUTA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 207321
+    },
+    {
+      "name": "ciudad_real",
+      "zip": "01",
+      "path": "data/CIUDAD_REAL.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2258499
+    },
+    {
+      "name": "cordoba",
+      "zip": "01",
+      "path": "data/CORDOBA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2254218
+    },
+    {
+      "name": "cuenca",
+      "zip": "01",
+      "path": "data/CUENCA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2706299
+    },
+    {
+      "name": "girona",
+      "zip": "17",
+      "path": "data/GIRONA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2290634
+    },
+    {
+      "name": "granada",
+      "zip": "01",
+      "path": "data/GRANADA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3768758
+    },
+    {
+      "name": "guadalajara",
+      "zip": "01",
+      "path": "data/GUADALAJARA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2845020
+    },
+    {
+      "name": "guipuzcoa",
+      "zip": "01",
+      "path": "data/GUIPUZCOA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 4679035
+    },
+    {
+      "name": "huelva",
+      "zip": "01",
+      "path": "data/HUELVA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2067582
+    },
+    {
+      "name": "huesca",
+      "zip": "01",
+      "path": "data/HUESCA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2819267
+    },
+    {
+      "name": "jaen",
+      "zip": "01",
+      "path": "data/JAEN.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2704050
+    },
+    {
+      "name": "las_palmas",
+      "zip": "01",
+      "path": "data/LAS_PALMAS.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 9177768
+    },
+    {
+      "name": "la_rioja",
+      "zip": "01",
+      "path": "data/LA_RIOJA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1613675
+    },
+    {
+      "name": "leon",
+      "zip": "01",
+      "path": "data/LEON.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2477665
+    },
+    {
+      "name": "lleida",
+      "zip": "25",
+      "path": "data/LLEIDA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2548618
+    },
+    {
+      "name": "lugo",
+      "zip": "01",
+      "path": "data/LUGO.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2021931
+    },
+    {
+      "name": "madrid",
+      "zip": "01",
+      "path": "data/MADRID.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 7051479
+    },
+    {
+      "name": "malaga",
+      "zip": "01",
+      "path": "data/MALAGA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2242709
+    },
+    {
+      "name": "melilla",
+      "zip": "01",
+      "path": "data/MELILLA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 65928
+    },
+    {
+      "name": "murcia",
+      "zip": "01",
+      "path": "data/MURCIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1866292
+    },
+    {
+      "name": "navarra",
+      "zip": "01",
+      "path": "data/NAVARRA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 20458741
+    },
+    {
+      "name": "ourense",
+      "zip": "01",
+      "path": "data/OURENSE.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1461033
+    },
+    {
+      "name": "palencia",
+      "zip": "01",
+      "path": "data/PALENCIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1655470
+    },
+    {
+      "name": "pontevedra",
+      "zip": "01",
+      "path": "data/PONTEVEDRA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1999234
+    },
+    {
+      "name": "salamanca",
+      "zip": "01",
+      "path": "data/SALAMANCA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3668174
+    },
+    {
+      "name": "segovia",
+      "zip": "01",
+      "path": "data/SEGOVIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1612559
+    },
+    {
+      "name": "sevilla",
+      "zip": "41",
+      "path": "data/SEVILLA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2307505
+    },
+    {
+      "name": "soria",
+      "zip": "01",
+      "path": "data/SORIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1405374
+    },
+    {
+      "name": "tarragona",
+      "zip": "43",
+      "path": "data/TARRAGONA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3806317
+    },
+    {
+      "name": "tenerife",
+      "zip": "01",
+      "path": "data/TENERIFE.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 10184677
+    },
+    {
+      "name": "teruel",
+      "zip": "01",
+      "path": "data/TERUEL.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2552845
+    },
+    {
+      "name": "toledo",
+      "zip": "01",
+      "path": "data/TOLEDO.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 2981210
+    },
+    {
+      "name": "valencia",
+      "zip": "01",
+      "path": "data/VALENCIA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3187838
+    },
+    {
+      "name": "valladolid",
+      "zip": "01",
+      "path": "data/VALLADOLID.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1727403
+    },
+    {
+      "name": "vizcaya",
+      "zip": "01",
+      "path": "data/VIZCAYA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 4265954
+    },
+    {
+      "name": "zamora",
+      "zip": "01",
+      "path": "data/ZAMORA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 1891800
+    },
+    {
+      "name": "zaragoza",
+      "zip": "01",
+      "path": "data/ZARAGOZA.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 3996762
+    }
+  ],
+  "version": "0.1.131",
+  "license": "ODC-PDDL-1.0",
+  "repository": "git://github.com/codeforspain/ds-codigos-postales.git",
+  "last_updated": "2017-06-19"
+}
